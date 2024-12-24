@@ -10,8 +10,8 @@ import time
 
 # Конфигурация
 BASE_URL = "https://mrroot.pro/books/page/{page}/"
-TELEGRAM_BOT_TOKEN = "7707551823:AAFDGOcgbmXOGuumEBlUFxJulyYc9yTTnCc"
-TELEGRAM_CHANNEL_ID = "@dwhnxhwhcw"
+TELEGRAM_BOT_TOKEN = "TOKEN"
+TELEGRAM_CHANNEL_ID = "CHANEL_ID"
 DOWNLOAD_DIR = "downloads"
 EXTRACT_DIR = "extracted"
 TIMEOUT = 3600  # Тайм-аут между отправками (в секундах)
